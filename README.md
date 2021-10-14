@@ -16,7 +16,7 @@ signup for [kiteconnect](https://kite.trade/docs/connect/v3/)
 
 
 ### Deployment
-deploy it on heroku using given Prockfile
+deploy it on heroku using the given Prockfile
 
 #### Note
 for this to work change login redirect url in your kite app to your flask URL 
